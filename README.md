@@ -59,6 +59,6 @@ $ yarn start
 
 ---
 
-<p align="center">Feito com 💙 por Leonardo Lobo, mas dou os cretidos para Gabriel Borges</p>
+<p align="center">Feito com 💙 por Leonardo Lobo, mas dou os crétidos para Gabriel Borges</p>
 
 

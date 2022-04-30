@@ -57,22 +57,8 @@ $ yarn start
 
 ```
 
-&nbsp;
-
-### 🔗 Link para o projeto online
-
-
-[Space Traveling](https://space-traveling-gbdev13.vercel.app/)
-
-&nbsp;
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/space-traveling/blob/master/LICENSE) para detalhes.
-
-
 ---
 
-<p align="center">Feito com 💙 por Gabriel Borges</p>
+<p align="center">Feito com 💙 por Leonardo Lobo, mas dou os cretidos para Gabriel Borges</p>
 
 
